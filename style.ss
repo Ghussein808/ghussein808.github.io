@@ -9,5 +9,6 @@ body {
   text-align: center;
 text-transform: uppercase;
   border-top: 2.5px solid rgba(0,0,0);
-    border-bottom: 2.5px solid rgba(0,0,0);
-   background-color: #991 }
+    border-bottom: 2.5px solid rgba(0,0,0, 999);
+   
+}
